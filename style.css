@@ -1,0 +1,20 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color : #CE2D4F;
+    padding: 0;
+    margin: 0;
+}
+
+#box{
+    background-color : #4056F4;
+}
+
+.heading{
+    color: #CEBBC9;
+}
+
+button{
+    background-color : green;
+}
