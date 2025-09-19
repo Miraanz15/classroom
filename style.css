@@ -1,3 +1,7 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color : #CEBBC9;
+}
 html{
     scroll-behavior: smooth;
 }
@@ -9,6 +13,7 @@ body{
 
 #box{
     background-color : #4056F4;
+    color: #CEBBC9;
 }
 
 .heading{
@@ -17,4 +22,18 @@ body{
 
 button{
     background-color : green;
+}
+
+#documentHeading{
+    color : #CEBBC9;
+    text-transform : uppercase;
+}
+
+#outer{
+    font-size: 25px;
+    text-align: center;
+}
+
+#inner{
+    font-size: 10px;
 }
